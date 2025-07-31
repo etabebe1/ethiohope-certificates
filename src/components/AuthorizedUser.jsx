@@ -89,7 +89,7 @@ function AuthorizedUser() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-500 via-indigo-600 to-blue-600 flex items-center justify-center px-4 py-12">
+    <div className="min-h-screen bg-gradient-to-br from-gray-500 via-blue-500 to-indigo-500 flex items-center justify-center px-4 py-12">
       <AnimatePresence mode="wait">
         {!isAuthorized ? (
           <motion.div
