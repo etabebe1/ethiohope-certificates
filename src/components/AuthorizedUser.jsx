@@ -57,13 +57,15 @@ function AuthorizedUser() {
   ]);
 
   const validCredentials = {
+    'Ermias Abebe': 'ETH00000',
     'Ahadu Million': 'ETH00001',
     'Kaleb Ayele': 'ETH00002',
     'Mahider Asfaw': 'ETH00003',
     'Tekleab Adane': 'ETH00004',
-    'Yafet Kassaye': 'ETH00005',
-    'Yohana Million': 'ETH00006',
-    'Yonathan Tewodros': 'ETH00007',
+    'Samuel Guta': 'ETH00005',
+    'Yafet Kassaye': 'ETH00006',
+    'Yohana Million': 'ETH00007',
+    'Yonathan Tewodros': 'ETH00008',
   };
 
   const handleSubmit = (e) => {
