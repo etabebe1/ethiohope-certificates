@@ -118,7 +118,7 @@ function AuthorizedUser() {
                   transition={{ delay: 0.1 }}
                 >
                   <label className="block text-sm font-medium text-gray-700 mb-1">
-                    Full Name
+                    Your Name + Surename
                   </label>
                   <input
                     type="text"
