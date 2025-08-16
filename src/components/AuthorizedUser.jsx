@@ -57,7 +57,6 @@ function AuthorizedUser() {
   ]);
 
   const validCredentials = {
-    'Ermias Abebe': 'ETH00000',
     'Ahadu Million': 'ETH00001',
     'Kaleb Ayele': 'ETH00002',
     'Mahider Asfaw': 'ETH00003',
